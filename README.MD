@@ -31,7 +31,7 @@
     DB_NAME=... # El nombre de la base de datos
     DB_USER=... # El nombre de usuario con el que se autenticara a la base de datos
     DB_PASSWORD=... # La contraseña correspondiente al usuario
-    DB=URI=... # La URI resultante de la conexion a base de datos. El formato es el siguiente: mongodb://${DB_USER}:${DB_PASSWORD}@host:port/
+    DB_URI=... # La URI resultante de la conexion a base de datos. El formato es el siguiente: mongodb://${DB_USER}:${DB_PASSWORD}@host:port/
     ```
 
 - ## Como correr la aplicación
